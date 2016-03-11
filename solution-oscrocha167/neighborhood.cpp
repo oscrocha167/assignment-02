@@ -1,5 +1,7 @@
 /* ----------------------------------------------------------------------------
- * Copyright &copy; 2016 YOUR_NAME <YOUR_EMAIL>
+* Copyright &copy; 2016 Oscar Rocha <oscar.k.rocha09@gmail.com>
+* team: Ying Wen <ywen1306@csu.fullerton.edu>, Edgar Banos <ebanos14@csu.fullerton.edu>, 
+* Errict Cantu <errictcantu@csu.fullerton.edu>, Anthony Rodriguez <A.rodriguez525@csu.fullerton.edu>
  * Released under the [MIT License] (http://opensource.org/licenses/MIT)
  * ------------------------------------------------------------------------- */
 
